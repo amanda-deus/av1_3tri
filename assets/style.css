@@ -16,11 +16,9 @@ footer p {
         font-size: 0.8rem;
         margin-top: 0.5rem;
         }  
-
- #container {
+#container {
         display: flex;
- }       
- 
- .cartão {
+}       
+.cartão {
         margin: 1rem 1rem;
- }
+}
